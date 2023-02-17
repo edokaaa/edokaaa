@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 👋 I am a backend developer with 3+ years experience building and contributing to scalable projects.
-- 👀 I love breaking things so as to better fix them :).
+- 👋 I am a backend developer.
+- 👀 I love breaking things so as to better understand and fix them :).
 - 🌱 I’m currently on the ALX SE program.
 - 💞️ I’m looking to collaborate on web and APIs related projects.
 

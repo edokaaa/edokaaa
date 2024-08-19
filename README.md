@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 I am a backend developer.
+- 👋 I am a backend engineer.
 - 👀 I love breaking things so as to better understand and fix them :).
 - 🌱 I’m currently on the ALX SE program.
 - 💞️ I’m looking to collaborate on web and APIs related projects.
@@ -16,16 +16,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edokaaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=edokaaaa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=edokaaa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=edokaaa&icon=9&color=1)](https://visitcount.itsvg.in)
 
 
 <!---
